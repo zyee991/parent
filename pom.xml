@@ -8,6 +8,7 @@
 	<modules>
 		<module>game</module>
 		<module>base</module>
+		<module>common-utils</module>
 	</modules>
 	<build>
 		<plugins>
